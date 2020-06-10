@@ -2,9 +2,9 @@ example:
   property: "finance"
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/ApplicationGatewayDB?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/blogapplication?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
     username: root
-    password: ENC(GW1PU+rjFxaZ53JTkkHvSlB89G3qQZ/e)
+    password: ENC(Pby50rItYYUXOfKD6+h/pg==)
     driverClassName: com.mysql.cj.jdbc.Driver
   jpa:
     show-sql: false
